@@ -6,4 +6,7 @@ public class main {
                 .append("to")
                 ;
     }
+    private static void  sendsms(StringBuffer sb,String number){
+
+    }
 }

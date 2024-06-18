@@ -25,7 +25,6 @@ public class app {
         String str3=str1.toUpperCase(Locale.ROOT);
         System.out.println(str3.replace("NADIA","fanap"));
 
-        String str2=("hello to my number ");
 
 //        String[] s1=str2.split("");
 //        System.out.println(Arrays.toStrings(s1));
